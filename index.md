@@ -6,7 +6,7 @@ description : An ML model will be implemented on an FPGA, specifically targeting
 ---
 ## Blog
 
- -- Atharv Patil :  https://github.com/Atharv1035 
+ -- Atharv Patil  :  https://github.com/Atharv1035 
   I'm Atharv Patil from BTech Electronics . I opted for this project because of my interest and inclination towards the domains of ML and Embedded Systems & FPGA's . Neural Networks are fascinating for me and I aim to build a strong foundation through this project that would help me further.
   In this project, I will be using FPGA's and neural networks to create a machine learning model that can distinguish between handwritten digits.
   
