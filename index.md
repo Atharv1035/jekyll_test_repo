@@ -42,7 +42,7 @@ I picked the ml model on fpga project out of all the fascinating ones. I found t
 
 
 ### What we will be doing in this project
-- __DESCRIPTION__ : An ML model will be implemented on an FPGA, specifically targeting the MNIST(**Modified National Institute of Standards and Technology database**) dataset. This model will inherently be accelerated on the FPGA.
+- __DESCRIPTION__ :  An ML model will be implemented on an FPGA, specifically targeting the MNIST(**Modified National Institute of Standards and Technology database**) dataset. This model will inherently be accelerated on the FPGA.
 - The MNIST dataset consists of a large database of handwritten digits that is commonly used for training various image processing systems.
 - We will be creating an ML model and train it to accurately detect any number from the MNIST dataset on an FPGA.
 
